@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /r/
+
+Sitemap: https://otterlymavis.github.io/tasterank/sitemap.xml
